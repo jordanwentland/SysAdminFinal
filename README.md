@@ -6,8 +6,8 @@
 
 <h2> How to run this project? </h1>
 <p> To run this project, simply:  </p>
-  markup: - Ensure docker and docker-compose are installed on your system
-  - pull the git repo down 
-  - run the docker compose file be executing "docker-compose up -d"
-  - thats it!
+  <p> 1.) Ensure docker and docker-compose are installed on your system </p>
+  <p> 2.) pull the git repo down </p>
+  <p> 3.) run the docker compose file be executing "docker-compose up -d" </p>
+  <p> 4.) thats it! </p>
 
